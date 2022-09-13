@@ -23,10 +23,10 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.4|^8",
         "ext-json": "*",
-        "illuminate/database": "^8.0",
-        "illuminate/support": "^8.0",
+        "illuminate/database": "^8",
+        "illuminate/support": "^8",
         "laravel-json-api/core": "^1.0.0-beta.1"
     },
     "require-dev": {
